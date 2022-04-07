@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #DBA901;
+}
+
+.quem-somos {
+    background-color: rgba(59, 182, 182, 0.514);
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.parceiros {
+    background-color: rgba(59, 182, 182, 0.644);
+}
+
+.servicos {
+    background-color: rgba(59, 182, 182, 0.788)
+}
+
+p {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    padding-bottom: 20px;
+}
+
+.bg-footer {
+    background-color: black;
+    margin-bottom: 0;
+}
+
+footer {
+    padding: 5px;
+}
